@@ -1,0 +1,5 @@
+﻿  Gizmos.cpp
+c:\users\s178067\documents\github\graphics2017\graphics\bootstrap\gizmos.h(3): fatal error C1083: Cannot open include file: 'glm/fwd.hpp': No such file or directory
+  DatTest.cpp
+c:\users\s178067\documents\github\graphics2017\graphics\bootstrap\gizmos.h(3): fatal error C1083: Cannot open include file: 'glm/fwd.hpp': No such file or directory
+  Generating Code...
